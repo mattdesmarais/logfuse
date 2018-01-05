@@ -1,7 +1,6 @@
 /*
-  m.desmarais@f5.com 
-  - Merg multiple logs into a single sorted file 
-  - Merg a single file containings mulitple logs into a single sorted file 
+- Merg multiple logs into a single sorted file 
+- Merg a single file containings mulitple logs into a single sorted file 
 
 Known Issues:
 BZ1: 
